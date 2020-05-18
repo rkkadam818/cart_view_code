@@ -1,4 +1,6 @@
-# A simple Shopping Cart View using React
+**This is a very basic app for shoping cart view created using React JS By RK. .**
+
+**Click Here for live demo.**
 
 ## Live URL :-
 
